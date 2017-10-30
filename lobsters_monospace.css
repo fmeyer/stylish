@@ -1,0 +1,5 @@
+@-moz-document domain("lobste.rs") {
+  body {
+    font: 14px/1.5 'Fira Mono', Menlo, monospace;
+  }
+}
